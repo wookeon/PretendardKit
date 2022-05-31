@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "pretendardkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wookeon/PretendardKit",
+      "state" : {
+        "branch" : "master",
+        "revision" : "532f7aea52916072555db7c73f2391e05e70808a"
+      }
+    }
+  ],
+  "version" : 2
+}
