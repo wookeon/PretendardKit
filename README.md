@@ -36,5 +36,5 @@ extension UIFont {
 
 # Screenshot
 
-<img width="675" alt="스크린샷 2022-05-31 16 15 14" src="https://user-images.githubusercontent.com/39257919/171114446-17d19d93-63ca-49db-a2af-76a095984efa.png">
+<img width="602" alt="스크린샷 2022-05-31 16 28 56" src="https://user-images.githubusercontent.com/39257919/171117374-773ffccf-9a36-4988-8037-ceb0105661e4.png">
 
