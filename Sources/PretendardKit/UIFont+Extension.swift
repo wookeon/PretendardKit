@@ -10,7 +10,7 @@ import UIKit
 
 public extension UIFont {
     
-    static func pretendard(ofSize fontSize: CGFloat, weight: Weight = .regular) -> UIFont {
+    static func pretendard(ofSize fontSize: CGFloat, weight: PretendardKit.Weight = .regular) -> UIFont {
         guard
             let font = UIFont(name: "Pretendard-\(weight.rawValue)", size: fontSize)
         else {
